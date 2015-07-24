@@ -1,7 +1,7 @@
 # rust-book-fr
 
 Une traduction francophone de "The Rust Programming Language", présent sur
-[rust-lang.org](https://rust-lang.org). J'ai pris plusieurs liberté au cours de
+[rust-lang.org](https://rust-lang.org). J'ai pris plusieurs libertés au cours de
 l'écriture en adoptant un style informel et en modifiant certains passages qui
 sonnaient étranges après une traduction directe.
 
